@@ -1,43 +1,46 @@
-# codealpha_tasks
-TASK 1
-Simple Chatbot using Python 🤖
+CodeAlpha Python Programming Internship
+
+This repository contains the tasks completed during my CodeAlpha Python Programming Internship.
+
+Task 2: Hangman Game
 
 Description
 
-This is a simple chatbot built using Python. The chatbot can interact with users, respond to greetings, ask for the user's name, and answer some basic questions.
+A simple Hangman Game developed using Python. The player has to guess the hidden word one letter at a time within a limited number of attempts.
 
 Features
 
-- Greets the user
-- Asks and remembers the user's name
-- Responds to "How are you?"
-- Answers "What is Python?"
-- Tells its purpose
-- Tells who created it
-- Handles basic conversations
+- Random word selection
+- Letter guessing system
+- Limited attempts
+- Input validation
+- Win/Lose result display
+
+Technologies Used
+
+- Python
+
+---
+
+Task 4: Basic Chatbot
+
+Description
+
+A simple rule-based chatbot developed using Python. The chatbot responds to user greetings and answers basic questions using predefined responses.
+
+Features
+
+- Greeting responses
+- User name interaction
+- Keyword-based responses
+- Simple conversation flow
 - Exit option using "bye"
 
 Technologies Used
 
-- Python 3
+- Python
 
-Concepts Used
-
-- Variables
-- User Input
-- Conditional Statements (if, elif, else)
-- String Handling
-- Loops
-
-Sample Questions
-
-- Hi
-- Hello
-- How are you?
-- What is Python?
-- What is your work?
-- Who built you?
-- Bye
+---
 
 Author
 
@@ -45,4 +48,4 @@ Maneesha Kumari
 
 Internship
 
-This project was developed as part of the CodeAlpha Python Programming Internship.
+CodeAlpha Python Programming Internship
